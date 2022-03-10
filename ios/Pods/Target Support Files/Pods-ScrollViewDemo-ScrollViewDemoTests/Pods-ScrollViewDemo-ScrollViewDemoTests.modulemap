@@ -1,0 +1,6 @@
+module Pods_ScrollViewDemo_ScrollViewDemoTests {
+  umbrella header "Pods-ScrollViewDemo-ScrollViewDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
